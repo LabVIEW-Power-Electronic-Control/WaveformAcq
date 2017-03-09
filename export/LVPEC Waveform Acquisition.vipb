@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-03-08 13:15:42" Modified_Date="2017-03-08 13:25:18" Creator="Brian Kindinger" Comments="" ID="8d2e01302f16a9ae74fbeaf2b8aeafc2">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-03-08 13:15:42" Modified_Date="2017-03-08 14:58:18" Creator="Brian Kindinger" Comments="" ID="e67e9a64354ab63fbbc90b5fe3321bad">
   <Library_General_Settings>
     <Package_File_Name>LVPEC_lib_Waveform_Acquisition</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\dev</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -38,7 +38,7 @@
       <Toolkit_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path>&lt;vi.lib&gt;\NI\PowerElectronicsControl</Path>
+        <Path>&lt;vi.lib&gt;\NI\PowerElectronicsControl\WaveformAcq</Path>
       </Toolkit_VIs>
       <Examples>
         <LLB>false</LLB>
@@ -106,9 +106,6 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Compile_Exclusions>
-        <Path/>
-      </Compile_Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\LICENSE.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
