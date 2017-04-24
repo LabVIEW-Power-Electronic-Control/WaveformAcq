@@ -644,6 +644,7 @@ AddOutputFilter chunkFilter
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="WaveformLibraryI_FPGATarget2_[FPGA]SARAcqMain_U+qOsuK4w1s.lvbitx" Type="Document" URL="../FPGA Bitfiles/WaveformLibraryI_FPGATarget2_[FPGA]SARAcqMain_U+qOsuK4w1s.lvbitx"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
